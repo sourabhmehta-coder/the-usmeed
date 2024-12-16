@@ -1,1 +1,1 @@
-# the-usmeed
+# The Ummeed Foundation
